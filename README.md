@@ -9,7 +9,7 @@
 
 ![alt text](https://github.com/Zachduty/homework-01/blob/main/assets/images/screen_shot.png)
 
-[link to my github](github.com/Zachduty)
+[link to my github](https://www.github.com/Zachduty)
 
 [link to the working page](https://zachduty.github.io/homework-01/)
 
